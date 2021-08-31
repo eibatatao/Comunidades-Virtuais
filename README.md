@@ -1,1 +1,1 @@
-# Comunidades-Virtuais---Banco-de-Dados
+Banco de Artigos do Comunidades Virtuais
